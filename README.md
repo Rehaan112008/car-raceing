@@ -1,1 +1,2 @@
-# car-raceing
+# synchronousBallMovement
+Ball moving synchronously
